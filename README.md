@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1sdmNidnZiYmx2dHR4em5ocHBlbjkxcTlnNzc3YmN6bDcycmFtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1sdmNidnZiYmx2dHR4em5ocHBlbjkxcTlnNzc3YmN6bDcycmFtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="700"/>
 
 - 👋 Hi, I’m @martinznaj
 
